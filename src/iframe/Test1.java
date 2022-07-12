@@ -39,7 +39,7 @@ public class Test1 {
 		String S4 = driver.findElement(By.linkText("Blogger")).getText();
 	    System.out.println(S4);
 		
-		
+		System.out.println("this is my first comment");
 		
 		
 		
